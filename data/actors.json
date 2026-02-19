@@ -1,0 +1,54 @@
+{
+  "obsada": [
+    {
+      "tytul_filmu": "Incepcja",
+      "rezyser": "Christopher Nolan",
+      "aktorzy": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"]
+    },
+    {
+      "tytul_filmu": "Titanic",
+      "rezyser": "James Cameron",
+      "aktorzy": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+    },
+    {
+      "tytul_filmu": "Matrix",
+      "rezyser": "Lana Wachowski, Lilly Wachowski",
+      "aktorzy": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+    },
+    {
+      "tytul_filmu": "Gladiator",
+      "rezyser": "Ridley Scott",
+      "aktorzy": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+    },
+    {
+      "tytul_filmu": "Avengers: Koniec gry",
+      "rezyser": "Anthony Russo, Joe Russo",
+      "aktorzy": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+    },
+    {
+      "tytul_filmu": "Joker",
+      "rezyser": "Todd Phillips",
+      "aktorzy": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+    },
+    {
+      "tytul_filmu": "Król Lew",
+      "rezyser": "Roger Allers, Rob Minkoff",
+      "aktorzy": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]
+    },
+    {
+      "tytul_filmu": "Interstellar",
+      "rezyser": "Christopher Nolan",
+      "aktorzy": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+    },
+    {
+      "tytul_filmu": "Forrest Gump",
+      "rezyser": "Robert Zemeckis",
+      "aktorzy": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+    },
+    {
+      "tytul_filmu": "Avatar",
+      "rezyser": "James Cameron",
+      "aktorzy": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "filmy": [
+    {
+      "tytul": "Incepcja",
+      "data": "16.07.2010",
+      "gatunek": ["Sci-Fi", "Thriller"],
+      "ocena": ["Marek", "9", "Świetny i wciągający film"],
+      "czy_premium": true,
+      "wyswietlenia": 1523
+    },
+    {
+      "tytul": "Titanic",
+      "data": "19.12.1997",
+      "gatunek": ["Dramat", "Romans"],
+      "ocena": ["Anna", "8", "Bardzo emocjonalny film"],
+      "czy_premium": false,
+      "wyswietlenia": 2345
+    },
+    {
+      "tytul": "Matrix",
+      "data": "31.03.1999",
+      "gatunek": ["Sci-Fi", "Akcja"],
+      "ocena": ["Krzysztof", "10", "Klasyk gatunku"],
+      "czy_premium": true,
+      "wyswietlenia": 3120
+    },
+    {
+      "tytul": "Gladiator",
+      "data": "05.05.2000",
+      "gatunek": ["Akcja", "Dramat", "Historyczny"],
+      "ocena": ["Paweł", "9", "Epicki i wzruszający"],
+      "czy_premium": false,
+      "wyswietlenia": 1890
+    },
+    {
+      "tytul": "Avengers: Koniec gry",
+      "data": "26.04.2019",
+      "gatunek": ["Akcja", "Sci-Fi", "Przygodowy"],
+      "ocena": ["Magda", "8", "Dobre zakończenie serii"],
+      "czy_premium": true,
+      "wyswietlenia": 4210
+    },
+    {
+      "tytul": "Joker",
+      "data": "04.10.2019",
+      "gatunek": ["Dramat", "Kryminał"],
+      "ocena": ["Tomasz", "9", "Mocny i psychologiczny"],
+      "czy_premium": true,
+      "wyswietlenia": 2765
+    },
+    {
+      "tytul": "Król Lew",
+      "data": "15.06.1994",
+      "gatunek": ["Animacja", "Familijny", "Przygodowy"],
+      "ocena": ["Ewa", "10", "Ponadczasowa bajka"],
+      "czy_premium": false,
+      "wyswietlenia": 3890
+    },
+    {
+      "tytul": "Interstellar",
+      "data": "07.11.2014",
+      "gatunek": ["Sci-Fi", "Dramat"],
+      "ocena": ["Łukasz", "10", "Arcydzieło science fiction"],
+      "czy_premium": true,
+      "wyswietlenia": 2987
+    },
+    {
+      "tytul": "Forrest Gump",
+      "data": "06.07.1994",
+      "gatunek": ["Dramat", "Komedia"],
+      "ocena": ["Karolina", "9", "Wzruszający i inspirujący"],
+      "czy_premium": false,
+      "wyswietlenia": 3456
+    },
+    {
+      "tytul": "Avatar",
+      "data": "18.12.2009",
+      "gatunek": ["Sci-Fi", "Przygodowy"],
+      "ocena": ["Piotr", "8", "Efekty specjalne robią wrażenie"],
+      "czy_premium": true,
+      "wyswietlenia": 4123
+    }
+  ]
+}
