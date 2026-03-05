@@ -19,3 +19,23 @@ db.movies.updateMany({}, { $inc: { wyswietlenia: 100 } },)
 
 const updatedViews =  db.movies.find()
 print(updatedViews)
+
+
+
+
+print("\n--- RAPORT ANALITYCZNY MONGOFLIX ---");
+const gatunek =
+    db.movies.find({ gatunek: "Sci-Fi" })
+
+print (gatunek)
+
+print("\n--- FILTROWANIE ---");
+
+const filtrowanie =
+    db.movies.find({
+        $and: [
+            { data: { $gt: "01.01.2010" } },
+            { wyswietlenia: { $gt: 2000 } }
+        ]
+    })
+print(filtrowanie)
