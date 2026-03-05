@@ -1,0 +1,76 @@
+{
+  "ocena": [
+    {
+      "tytul_filmu": "Incepcja",
+      "ocena": 9,
+      "urzytkownik": "Kamil",
+      "komentarz": "swietny film, mocno zmusza do myslenia"
+    },
+    {
+      "tytul_filmu": "Titanic",
+      "ocena": 8,
+      "urzytkownik": "Anna",
+      "komentarz": "klasyczny romans, bardzo emocjonalny"
+    },
+    {
+      "tytul_filmu": "Matrix",
+      "ocena": 10,
+      "urzytkownik": "Bartek",
+      "komentarz": "rewolucyjny film sci fi"
+    },
+    {
+      "tytul_filmu": "Gladiator",
+      "ocena": 9,
+      "urzytkownik": "Marta",
+      "komentarz": "epicki klimat i dobra historia"
+    },
+    {
+      "tytul_filmu": "Avengers: Koniec gry",
+      "ocena": 8,
+      "urzytkownik": "Piotr",
+      "komentarz": "dobry final serii marvel"
+    },
+    {
+      "tytul_filmu": "Joker",
+      "ocena": 9,
+      "urzytkownik": "Kasia",
+      "komentarz": "mroczny i bardzo dobrze zagrany"
+    },
+    {
+      "tytul_filmu": "Król Lew",
+      "ocena": 10,
+      "urzytkownik": "Ola",
+      "komentarz": "jedna z najlepszych animacji"
+    },
+    {
+      "tytul_filmu": "Interstellar",
+      "ocena": 9,
+      "urzytkownik": "Tomek",
+      "komentarz": "niesamowita muzyka i historia"
+    },
+    {
+      "tytul_filmu": "Forrest Gump",
+      "ocena": 10,
+      "urzytkownik": "Adam",
+      "komentarz": "film ponadczasowy"
+    },
+    {
+      "tytul_filmu": "Avatar",
+      "ocena": 8,
+      "urzytkownik": "Natalia",
+      "komentarz": "swietne efekty wizualne"
+    },
+    {
+      "tytul_filmu": "Matrix",
+      "ocena": 9,
+      "urzytkownik": "Daniel",
+      "komentarz": "bardzo dobry scenariusz"
+    },
+    {
+      "tytul_filmu": "Incepcja",
+      "ocena": 8,
+      "urzytkownik": "Michal",
+      "komentarz": "troche skomplikowany ale dobry"
+    }
+  ]
+}

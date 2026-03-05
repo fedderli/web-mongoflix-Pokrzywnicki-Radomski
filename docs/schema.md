@@ -15,3 +15,13 @@
 | `tytul_filmu`  | **String** | Unikalny tytul filmu. | `"Harry Potter i isygnia smierci"` |
 | `rezyser`      | **String** | rezyser filmu         | `"Alfonso Cuaron"`                 |
 | `aktorzy`      | **Array**  | Lista surowców.       | `["Harry Potter", "Ron Wesley"]`   |
+
+
+### 3. Kolekcja: `ocena`
+
+| Pole          | Typ        | Opis                     | Przykład                                              |
+|:--------------|:-----------|:-------------------------|:------------------------------------------------------|
+| `tytul_filmu` | **String** | Unikalny tytul filmu.    | `"Harry Potter i isygnia smierci"`                    |
+| `ocena`       | **Int**    | ocena filmu              | `7`                                                   |
+| `urzytkownik` | **String** | autor komentarza i oceny | `Kamil`                                               |
+| `komentarz`   | **String** | komentarz urzytkownika   | `tak srednio bym powiedzial`                          |
