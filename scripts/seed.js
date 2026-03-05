@@ -1,4 +1,4 @@
-db = db.getSiblingDB('movies')
+db = db.getSiblingDB('DBmovies')
 
 db.actors.drop()
 db.movies.drop()
@@ -133,7 +133,7 @@ db.movies.insertMany([
     ]
 )
 
-db.raiting.insertinsertMany(
+db.raiting.insertMany(
     [
         {
             tytul_filmu: "Incepcja",
